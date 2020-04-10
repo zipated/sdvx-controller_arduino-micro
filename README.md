@@ -1,4 +1,5 @@
 参考（Copy）了 Sucaretto(https://github.com/Sucaretto) 的 Arduino-SDVX-Controller(https://github.com/Sucaretto/Arduino-SDVX-Controller)
+↓↓↓以下是被copy的项目原介绍↓↓↓
 # Arduino-SDVX-Controller
 使用 Arduino 制作的 SOUND VOLTEX 控制器。
 
@@ -12,9 +13,8 @@
 https://github.com/MHeironimus/ArduinoJoystickLibrary  
 https://github.com/PaulStoffregen/Encoder
 
-
+↑↑↑以上是被copy的项目原介绍↑↑↑
 （写入程序之前先把库加载了
-
 （以及不要从Arduino软件里面下载类似/同名库
 
 （以及不要从Arduino软件里面下载类似/同名库
