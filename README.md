@@ -1,4 +1,4 @@
-参考（Copy）了 Sucaretto(https://github.com/Sucaretto) / Arduino-SDVX-Controller(https://github.com/Sucaretto/Arduino-SDVX-Controller)
+参考（Copy）了 Sucaretto(https://github.com/Sucaretto) 的 Arduino-SDVX-Controller(https://github.com/Sucaretto/Arduino-SDVX-Controller)
 # Arduino-SDVX-Controller
 使用 Arduino 制作的 SOUND VOLTEX 控制器。
 
@@ -8,6 +8,11 @@
 [键码参考(key to key(?))](https://www.arduino.cc/en/Reference/KeyboardModifiers)  
 [Print Screen 键](https://forum.arduino.cc/index.php?topic=119740.15)
 
-引用库(lib)：  
+引用库(lib)：
 https://github.com/MHeironimus/ArduinoJoystickLibrary  
 https://github.com/PaulStoffregen/Encoder
+
+（写入程序之前先把库加载了
+（以及不要从Arduino软件里面下载类似/同名库
+（以及不要从Arduino软件里面下载类似/同名库
+（以及不要从Arduino软件里面下载类似/同名库
