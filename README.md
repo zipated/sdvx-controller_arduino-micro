@@ -12,7 +12,11 @@
 https://github.com/MHeironimus/ArduinoJoystickLibrary  
 https://github.com/PaulStoffregen/Encoder
 
+
 （写入程序之前先把库加载了
+
 （以及不要从Arduino软件里面下载类似/同名库
+
 （以及不要从Arduino软件里面下载类似/同名库
+
 （以及不要从Arduino软件里面下载类似/同名库
