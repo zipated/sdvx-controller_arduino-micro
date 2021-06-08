@@ -20,3 +20,5 @@ https://github.com/PaulStoffregen/Encoder
 （以及不要从Arduino软件里面下载类似/同名库
 
 （以及不要从Arduino软件里面下载类似/同名库
+
+（（顺便zipated的号的action因为jd脚本被ban了wwwwww
