@@ -21,11 +21,7 @@ https://github.com/PaulStoffregen/Encoder
 
 （以及不要从Arduino软件里面下载类似/同名库
 
-（（顺便zipated的号的action因为jd脚本被ban了wwwwww
+（（顺便这个号的action因为jd脚本被ban了wwwwww
 
-My another account(ZipChannel) has been banned.
-So, Fuck you Github and Microsoft.
-So, Fuck you Github and Microsoft.
-So, Fuck you Github and Microsoft.
 
-And NVIDIA.
+（And Fuck You NVIDIA.
